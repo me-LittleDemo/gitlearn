@@ -1,3 +1,4 @@
 *.properties
 !must.properties
 build/
+/**/test.ig
